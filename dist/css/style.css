@@ -1,0 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap);
+*{margin:0;padding:0;box-sizing:border-box}ul{list-style:none}img{max-width:100%;height:auto}body{font:400 16px/30px "Lato",Arial,Tahoma,sans-serif;color:#848789}a{text-decoration:underline;color:#000}input{outline:none}table{border-collapse:collapse}.wrapper{overflow:hidden}.container{max-width:1630px;margin:0 auto;padding:0 15px}.banner{min-height:100vh;background:url(../images/banner.jpg) no-repeat 50% 100%;background-size:cover}
+
+
+/*# sourceMappingURL=style.css.map*/
