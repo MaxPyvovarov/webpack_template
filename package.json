@@ -1,7 +1,7 @@
 {
-  "name": "Bicycle",
+  "name": "Project",
   "version": "1.0.0",
-  "description": "Bicycle template",
+  "description": "Project template",
   "main": "src/index.js",
   "scripts": {
     "watch": "webpack --mode development --watch",

@@ -73,7 +73,7 @@ const config = {
                     loader: "file-loader",
                     options: {
                         name: "[name].[ext]",
-                        outputPath: "./images"
+                        outputPath: "./img"
                     }
                 },
             },

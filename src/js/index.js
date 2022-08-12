@@ -1,1 +1,5 @@
-window.$ = window.jQuery = require('jquery');
+//JS code
+
+window.addEventListener('DOMContentLoaded', () => {
+    
+});
